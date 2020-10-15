@@ -1,3 +1,3 @@
 p 'hello world!'
 
-p 1 * 3
+p 7 % 3
